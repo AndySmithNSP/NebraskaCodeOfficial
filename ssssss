@@ -1,0 +1,53 @@
+[33mcommit 2f5e416c7657de134b358ba16dd99304d7af30f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Andy Smith Sr <andy.smith@nebraska.gov>
+Date:   Wed Aug 14 11:44:26 2019 -0500
+
+    Whatever
+
+[33mcommit 8ed16e924a408417fa49740308ab701572dfdc5a[m
+Merge: b3e3444 98dc493
+Author: AndySmithNSP <54068641+AndySmithNSP@users.noreply.github.com>
+Date:   Wed Aug 14 10:39:09 2019 -0500
+
+    Merge pull request #2 from AndySmithNSP/newFeature
+    
+    branch change
+
+[33mcommit 98dc4935014ed459a3f5ed39208c31f423d7b42b[m[33m ([m[1;31morigin/newFeature[m[33m, [m[1;32mnewFeature[m[33m)[m
+Author: Andy Smith Sr <andy.smith@nebraska.gov>
+Date:   Wed Aug 14 10:38:07 2019 -0500
+
+    branch change
+
+[33mcommit b3e3444c32e7daf658e4de95e5f531bda646b7e6[m
+Merge: 49ede55 14b9bc9
+Author: AndySmithNSP <54068641+AndySmithNSP@users.noreply.github.com>
+Date:   Wed Aug 14 09:52:30 2019 -0500
+
+    Merge pull request #1 from AndySmithNSP/54321-patch-1
+    
+    Some other dudes branch
+
+[33mcommit 14b9bc9c4b6daaa6bde43647f33ee27b5e90f068[m[33m ([m[1;31morigin/54321-patch-1[m[33m, [m[1;32m54321-patch-1[m[33m)[m
+Author: AndySmithNSP <54068641+AndySmithNSP@users.noreply.github.com>
+Date:   Wed Aug 14 09:50:33 2019 -0500
+
+    Some other dudes branch
+
+[33mcommit 49ede552c14f8794ba8f1f4bc27de84f84cba32d[m
+Author: AndySmithNSP <54068641+AndySmithNSP@users.noreply.github.com>
+Date:   Wed Aug 14 09:29:47 2019 -0500
+
+    Some other dude changed
+
+[33mcommit 6af29b99da9248277b2a425f8a7a6f3a2cb82a10[m
+Author: Andy Smith Sr <andy.smith@nebraska.gov>
+Date:   Wed Aug 14 09:23:29 2019 -0500
+
+    Changed index
+
+[33mcommit c9d574496bd23a17bcd1a99770464b9e79b76c27[m
+Author: Andy Smith Sr <andy.smith@nebraska.gov>
+Date:   Wed Aug 14 09:14:53 2019 -0500
+
+    first commit
